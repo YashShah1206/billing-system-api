@@ -3,8 +3,3 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "cd BillingSystem.API && dotnet run --urls http://0.0.0.0:$PORT"
-```
-
-Save this file as **`railway.toml`** inside your `BillingSystem` folder:
-```
-C:\Users\YASH.SHAH\Downloads\BillingSystem\railway.toml
