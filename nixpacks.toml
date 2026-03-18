@@ -1,7 +1,0 @@
-Get-Content nixpacks.toml
-```
-
-You should see:
-```
-[phases.setup]
-nixPkgs = ["dotnet-sdk_8"]
