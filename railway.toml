@@ -1,7 +1,9 @@
-notepad railway.toml
+cd C:\Users\YASH.SHAH\Downloads\BillingSystem
+git rm railway.toml
+git commit -m "remove railway.toml"
+git push
 ```
 
-**Step 2 — Delete everything and type this exactly:**
+**Step 2 — Go to Railway website** → Your API service → Click **Settings** tab → Find **Deploy** section → Find **Start Command** field → Type this exactly:
 ```
-[deploy]
-startCommand = "dotnet BillingSystem.API.dll"
+dotnet BillingSystem.API.dll
