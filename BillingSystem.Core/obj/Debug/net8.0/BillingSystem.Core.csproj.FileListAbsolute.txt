@@ -1,0 +1,11 @@
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\bin\Debug\net8.0\BillingSystem.Core.deps.json
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\bin\Debug\net8.0\BillingSystem.Core.dll
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\bin\Debug\net8.0\BillingSystem.Core.pdb
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.AssemblyInfo.cs
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.dll
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\refint\BillingSystem.Core.dll
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.pdb
+C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\ref\BillingSystem.Core.dll
