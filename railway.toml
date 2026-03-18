@@ -1,5 +1,7 @@
-[build]
-builder = "nixpacks"
+notepad railway.toml
+```
 
+**Step 2 — Delete everything and type this exactly:**
+```
 [deploy]
-startCommand = "cd BillingSystem.API && dotnet run --urls http://0.0.0.0:$PORT"
+startCommand = "dotnet BillingSystem.API.dll"
