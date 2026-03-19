@@ -17,13 +17,12 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
         policy.WithOrigins(
-    "http://localhost:4200",
-    "https://billing-system-frontend-nu.vercel.app"
-)
-.AllowAnyMethod()
-.AllowAnyHeader()
+            "http://localhost:4200",
+            "https://billing-system-frontend-nu.vercel.app"
+        )
+        .AllowAnyMethod()
+        .AllowAnyHeader());
 });
-
 QuestPDF.Settings.License = LicenseType.Community;
 
 var app = builder.Build();
