@@ -9,3 +9,4 @@ C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\B
 C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\refint\BillingSystem.Core.dll
 C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\BillingSystem.Core.pdb
 C:\Users\YASH.SHAH\Downloads\BillingSystem\BillingSystem.Core\obj\Debug\net8.0\ref\BillingSystem.Core.dll
+C:\Users\YASH.SHAH\Downloads\BillingSystem\billingsystem.core\obj\Debug\net8.0\BillingSystem.Core.sourcelink.json

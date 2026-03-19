@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\BillingSystem.Core\\BillingSystem.Core.csproj": {}
+    "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\billingsystem.core\\BillingSystem.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\BillingSystem.Core\\BillingSystem.Core.csproj": {
+    "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\billingsystem.core\\BillingSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\BillingSystem.Core\\BillingSystem.Core.csproj",
+        "projectUniqueName": "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\billingsystem.core\\BillingSystem.Core.csproj",
         "projectName": "BillingSystem.Core",
-        "projectPath": "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\BillingSystem.Core\\BillingSystem.Core.csproj",
+        "projectPath": "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\billingsystem.core\\BillingSystem.Core.csproj",
         "packagesPath": "C:\\Users\\YASH.SHAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\BillingSystem.Core\\obj\\",
+        "outputPath": "C:\\Users\\YASH.SHAH\\Downloads\\BillingSystem\\billingsystem.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
