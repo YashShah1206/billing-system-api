@@ -16,7 +16,12 @@ builder.Services.AddSwaggerDocs();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
-        policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+        policy.WithOrigins(
+    "http://localhost:4200",
+    "https://billing-system-frontend-nu.vercel.app"
+)
+.AllowAnyMethod()
+.AllowAnyHeader()
 });
 
 QuestPDF.Settings.License = LicenseType.Community;
